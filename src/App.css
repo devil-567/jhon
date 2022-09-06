@@ -1,0 +1,117 @@
+.App {
+  text-align: center;
+  
+}
+.containt{
+  display: flex;
+}
+.containt img{
+  height: 90px;
+  width: 90px;
+  border-radius: 50%;
+}
+.middle_ander{
+  margin-top: 50px;
+  display: flex;
+  border-radius: 5px;
+  background-color: white;
+}
+.middle_ander .left img{
+  margin-top: 50px;
+  height: 110px;
+  width: 110px;
+  border-radius: 50%;
+}
+.brandname{
+  display: flex;
+  margin-top: 10px;
+}
+.right{
+  border-left: 1px solid gray;
+
+  text-align: left;
+    padding: 50px 30px 50px 30px;
+}
+.left{
+  padding: 20px;
+}
+ button{
+    height: 40px;
+    width: 230px;
+    background-color: darkgreen;
+    border: none;
+    border-radius: 5px;
+    margin-top: 90px;
+    font-size: larger;
+    text-align: center;
+}
+.character_image1{
+    text-decoration: none;
+    margin-left: 100px;
+}
+.character_image2{
+  margin-right: 200px;
+
+}
+.character_image3{
+  margin-left: 100px;
+
+}
+.character_image4{
+  margin-right: 200px;
+
+}
+.character_image5{
+  margin-left: 100px;
+
+}
+.character_image12{
+  padding: 10px;
+}
+.App h1 span{
+  color: darkgreen;
+}
+.App p{
+  color: gray;
+  font-size: 15px;
+}
+.right p{
+  text-align: right;
+  margin-bottom: 20px;
+  color: black;
+}
+.right span{
+  text-align: left;
+}
+
+
+
+.button a{
+  text-decoration: none;
+  color: white;
+  background-color: rgb(42, 39, 39);
+  border: 1px solid white;
+  padding: 10px;
+  border-radius: 50%;  
+  font-size: 19px;
+  align-items: center;
+  text-align: center;
+}
+.button {
+  margin-top: 14%;
+  padding: 10px;
+}
+.icon{
+  height: 30px;
+  width: 30px;
+}
+.containt .character_image img{
+  border: none;
+}
+.left span{
+  font-weight: bold;
+    color: red;
+}
+.left .brand__name{
+  color:blue;
+} 
